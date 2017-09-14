@@ -1,6 +1,6 @@
 # mercari-android-test-master
 
-Build an app that loads data from `all.json` which is stored in `assets`, and make the app look like the above screenshot.
+Build an app that loads data from `all.json` which is stored in `assets`
 
 - Written in a such way that data retrieval implementation can be easily replaced. For example, it is currenly loaded from `all.json` file 
   but in the near future we might want to fetch the data from network.
